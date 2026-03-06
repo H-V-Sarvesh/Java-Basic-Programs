@@ -1,0 +1,37 @@
+06-03-2026 Java Basic Programs.
+
+
+1. Get 15 random numbers as input and write a program to sort those in ascending order
+
+2. Reverse a string without using any predefined functions
+
+3. Get input as 135823..Consider this as rupees..and print an output to show
+How many Rs 500 can be there in it
+How many Rs 100 can be there in it
+Similarly how many Rs 50, Rs 20, Rs 10, Rs 1 can be there in it
+
+4. Input a big sentence and print how many a's...how many b's...how many c's ..........till how many z's are there
+
+5. Get the below inputts from the user and print how many total matches will be played
+Enter number of teams : say 5 teams
+Enter how many times face to face each team will play against each other : say 3 times..
+
+6. Find if a given word is a palindrome or not
+
+7. Get some random 20 numbers from user and print like below
+5 was entered 2 times
+8 was entered 1 time
+4 was entered 6 times
+Like this............
+
+8. Get current age of a person and print the year of his birth
+
+9. Print same like below using loop..shud look like a triangle
+
+                                 1
+                             1      2
+                         1      2     3
+                    1     2.    3.     4
+                   1.   2.    3.   4.     5
+
+10. Get 5 numbers from the user and print which is the biggest number
