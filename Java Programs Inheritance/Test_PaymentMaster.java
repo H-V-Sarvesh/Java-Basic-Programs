@@ -60,15 +60,15 @@ class Test_PaymentMaster{
         PaymentMaster payOBJ;
         System.out.println("Enter the preffred payment method:\t");
         String s = sc.nextLine();
-        if( s.equals("Gpay") ){
+        if( s.toLowerCase().equals("gpay") ){
             payOBJ = new Gpay();
             payOBJ.pay();
         }
-        else if( s.equals("Netbanking") ){
+        else if( s.toLowerCase().equals("netbanking") ){
             payOBJ = new Netbanking();
             payOBJ.pay();
         }
-        else if(s.equals("UPI")){
+        else if(s.toLowerCase().equals("upi")){
             payOBJ = new UPI();
             payOBJ.pay();
         }
